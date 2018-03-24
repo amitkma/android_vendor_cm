@@ -118,13 +118,13 @@ PRODUCT_PACKAGES += \
 # Custom CM packages
 PRODUCT_PACKAGES += \
     AudioFX \
+    BlissLauncherO \
     CMSettingsProvider \
     LineageSetupWizard \
     Eleven \
     ExactCalculator \
     Jelly \
     LockClock \
-    Trebuchet \
     Updater \
     WallpaperPicker \
     WeatherProvider
